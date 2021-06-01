@@ -37,8 +37,13 @@ This android app changes the wallpaper of the android phone continuosly until st
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<!--
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37995825/120270647-ea0d3c00-c2e4-11eb-98fb-89c3aa1baab9.jpg"/>
+  <img src="https://user-images.githubusercontent.com/37995825/120275118-cdc0cd80-c2eb-11eb-9cb4-774a3a63f20c.gif"/>
+</p>-->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37995825/120275118-cdc0cd80-c2eb-11eb-9cb4-774a3a63f20c.gif"/>
 </p>
 
 
